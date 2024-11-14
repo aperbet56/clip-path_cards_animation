@@ -6,7 +6,7 @@ Création d'une animation clip-path cards au sorvol de la souris en HTML5 et CSS
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/clip-path_cards_animation/
 
 ## Projet développé avec
 
