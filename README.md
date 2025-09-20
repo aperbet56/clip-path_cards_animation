@@ -1,5 +1,7 @@
 ## CLIP-PATH CARDS ANIMATION
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Création d'une animation clip-path cards au sorvol de la souris en HTML5 et CSS3.
